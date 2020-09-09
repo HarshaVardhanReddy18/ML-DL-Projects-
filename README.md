@@ -1,2 +1,3 @@
 # Machine-Learning
-This has the bank customer analysis using ML algorithms for predicting customer behaviour
+This has all my ML projects
+
