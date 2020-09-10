@@ -49,4 +49,5 @@ Using convolutional neural networks and classifying dog and cats images
 16)MNIST fashion Dataset
 Using keras classified all apparels in MNIST dataset.
 
-17)
+17)Product recommendations
+It's using customers buying data for a site and analyzing behaviour and recommending products (it's like people who bought this also bought type in Amazon and all)
