@@ -17,4 +17,13 @@ By using Support Vector Machine Algorithm here we analyze and predict the live s
 6)CryptoCurrencyValue Future Prediction
 Here we take the data of  crypto currency value in market date wise from its start and predict the future of the value of the same by using ML algorithms
 
-7)
+7)Employee promotion prediction
+Here we analyze the data of employees in the company and using Decision tree classifier we predict whether the employee will be promoted or not
+
+8)Gas Prices and Fifa Data Analysation
+This is analysation of data by drawing out few cool facts from the given data using graphs and basically matplotlib library usage
+
+9)Heart attack prediction
+ML project that studies many health factors regarding heart and predicts whether the person is likely to get a heart attack or not.
+
+10)Logistic Regression
