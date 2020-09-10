@@ -11,4 +11,10 @@ Predicting the people that are converted to our product with the factors like pl
 4)Cancer Prediction 
 This is the projects the predicts whether cancer is present or not in the patients by studying and trained the previous confiremed cases of cancer data and was done using Random Forest Classfier
 
-5)Character pose prediction
+5)GOT Character Alive prediction
+By using Support Vector Machine Algorithm here we analyze and predict the live status (dead or alive) by studying the characteristics of characters in GOT TV show.
+
+6)CryptoCurrencyValue Future Prediction
+Here we take the data of  crypto currency value in market date wise from its start and predict the future of the value of the same by using ML algorithms
+
+7)
