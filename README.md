@@ -33,5 +33,9 @@ Predicting the people that are converted to our product with the factors like pl
 Here we analyze the London crome rate in many areas of London and predict the highly crime prone areas using ML algorithms
 
 12)Sentimental Analyzer into 7 different Emotions :
--->Using NLP and no machine learning algorithm it sstudies the tweets and reviews on some product or any tag and then predicts the sentiment of the part into 7 emotions (Joy, Sadness, Shame, Guilt, 
+-->Using NLP and no machine learning algorithm it sstudies the tweets and reviews on some product or any tag and then predicts the sentiment of the part into 7 emotions (Joy, Sadness, Shame, Guilt, Disgust, Joy, Fear 
+-->Using NLP and machine learning algorithm it sstudies the tweets and reviews on some product or any tag and then predicts the sentiment of the part into 7 emotions (Joy, Sadness, Shame, Guilt, Disgust, Joy, Fear 
+-->Using NLP and Neural Networks it studies the tweets and reviews on some product or any tag and then predicts the sentiment of the part into 7 emotions (Joy, Sadness, Shame, Guilt, Disgust, Joy, Fear 
+
+13)
 
