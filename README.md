@@ -1,3 +1,2 @@
-# Machine-Learning
-This has all my ML projects
+# Machine Learning And Deep Learning Projects
 
