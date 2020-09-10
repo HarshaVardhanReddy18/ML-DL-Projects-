@@ -37,5 +37,16 @@ Here we analyze the London crome rate in many areas of London and predict the hi
 -->Using NLP and machine learning algorithm it sstudies the tweets and reviews on some product or any tag and then predicts the sentiment of the part into 7 emotions (Joy, Sadness, Shame, Guilt, Disgust, Joy, Fear 
 -->Using NLP and Neural Networks it studies the tweets and reviews on some product or any tag and then predicts the sentiment of the part into 7 emotions (Joy, Sadness, Shame, Guilt, Disgust, Joy, Fear 
 
-13)
+13)Review Sentiment Analyser by sentimental analyser inbuilt in NLTK : 
+Basically this is the project done for upskilling nlp and exploring nltk library
 
+14)Email Spam classifier
+Spam classifier takes the e-mail and analyzes data using nlp and classifies to spam or ham(not spam).
+
+15)Dog-Cat Image Classifier
+Using convolutional neural networks and classifying dog and cats images
+
+16)MNIST fashion Dataset
+Using keras classified all apparels in MNIST dataset.
+
+17)
